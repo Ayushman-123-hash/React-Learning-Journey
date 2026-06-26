@@ -30,7 +30,7 @@ function App() {
       style={{
         backgroundImage:
           'url("https://images.pexels.com/photos/22873280/pexels-photo-22873280.jpeg?_gl=1*1e2gj4b*_ga*NDc0ODE0NzA4LjE3ODE0MTY0NTg.*_ga_8JE65Q40S6*czE3ODE0MjIyMDYkbzIkZzEkdDE3ODE0MjIzNzYkajUxJGwwJGgw")',
-          backgroundPosition: "center bottom",
+          backgroundPosition: "center bottom"
       }}
     >
       <div className="w-full">
